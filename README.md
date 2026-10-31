@@ -33,6 +33,22 @@ This project documents practical activities completed during my cybersecurity in
 - Explored device management capabilities, including remote lock and wipe options.
 - Reviewed available device security policies.
 
+## Project Screenshots
+
+### 1. Headwind MDM — Device Management
+
+![Headwind MDM Dashboard](screenshots/mdm/mdm-dashboard.png)
+
+![Android Device Inventory](screenshots/mdm/device-inventory.png)
+
+### 2. MobSF — Android Static Analysis
+
+![MobSF Static Analysis Results](screenshots/mobsf/mobsf-analysis.png)
+
+### 3. Burp Suite — HTTP Traffic Inspection
+
+![Burp Suite HTTP Traffic Inspection](screenshots/burp/burp-traffic.png)
+
 ### 2. Android Application Static Analysis — MobSF
 
 - Used MobSF to examine an Android application package.
