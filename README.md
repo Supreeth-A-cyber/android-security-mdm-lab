@@ -37,13 +37,13 @@ This project documents practical activities completed during my cybersecurity in
 
 ### 1. Headwind MDM — Device Management
 
-![Headwind MDM Dashboard](screenshots/mdm/mdm-dashboard.png)
+![Headwind MDM Dashboard](screenshots/mdm/mdm_dashboard.png)
 
-![Android Device Inventory](screenshots/mdm/device-inventory.png)
+![Android Device Inventory](screenshots/mdm/device_inventory.png)
 
 ### 2. MobSF — Android Static Analysis
 
-![MobSF Static Analysis Results](screenshots/mobsf/mobsf-analysis.png)
+![MobSF Static Analysis Results](screenshots/mobsf/Mobsf-analysis.png)
 
 ### 3. Burp Suite — HTTP Traffic Inspection
 
